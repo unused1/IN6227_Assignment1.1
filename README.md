@@ -16,6 +16,7 @@ IN6227 Assignment 1.1 uses a dataset provided and develops a classification mode
 
 Installation is not required but you will need to have a tool to run Jupyter notebooks.
 Download the entire project folder and open main.ipynb file.
+Python version used is 3.11.5. Required python packages can be found in requirements.txt file.
 
 ## Usage
 
