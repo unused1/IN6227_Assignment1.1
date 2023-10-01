@@ -15,7 +15,7 @@ IN6227 Assignment 1.1 uses a dataset provided and develops a classification mode
 ## Installation
 
 Installation is not required but you will need to have a tool to run Jupyter notebooks.
-Download the entire project folder and open main.ipynb file.
+Download the entire project folder and open main.ipynb file. The UCI census dataset files are saved in Census_Income_Data_Set folder within this project folder, and copy of images generated in notebooks are saved in Saved_Images.
 Python version used is 3.11.5. Required python packages can be found in requirements.txt file.
 
 ## Usage
